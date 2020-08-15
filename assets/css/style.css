@@ -70,10 +70,23 @@ body {
 }
 
 @media  screen and (max-width:991px)  {
+  .header {
+    font-size: 1.2em;
+  }
   .card {
     margin: auto;
     width: 80%;
+    height:auto;
     margin-bottom: 1em;
+  }
+  .card > h2 {
+    font-size: 0.85em;
+  }
+  .card > p {
+    font-size: 0.7em;
+  }
+  .card > a {
+    font-size: 0.7em;
   }
   .grid {
     margin: auto;

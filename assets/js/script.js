@@ -4,13 +4,13 @@ let cardArray = [
   {
     name:"Color Flip",
     src:"ColorFlip/colorflip.html",
-    code:"x",
+    code:"https://github.com/rajghate/BasicJsProjects/tree/master/ColorFlip",
     desc:"Changing the background color using random hex color codes"
   },
   {
     name:"Counter",
     src:"Counter/counter.html",
-    code:"x",
+    code:"https://github.com/rajghate/BasicJsProjects/tree/master/Counter",
     desc:"Basic Counter with increment decrement and reset functionality "
   },
   {
